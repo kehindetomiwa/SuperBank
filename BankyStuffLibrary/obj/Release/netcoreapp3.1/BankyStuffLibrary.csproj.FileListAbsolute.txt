@@ -1,0 +1,9 @@
+/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/bin/Release/netcoreapp3.1/BankyStuffLibrary.deps.json
+/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/bin/Release/netcoreapp3.1/BankyStuffLibrary.dll
+/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/bin/Release/netcoreapp3.1/BankyStuffLibrary.pdb
+/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/obj/Release/netcoreapp3.1/BankyStuffLibrary.csprojAssemblyReference.cache
+/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/obj/Release/netcoreapp3.1/BankyStuffLibrary.AssemblyInfoInputs.cache
+/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/obj/Release/netcoreapp3.1/BankyStuffLibrary.AssemblyInfo.cs
+/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/obj/Release/netcoreapp3.1/BankyStuffLibrary.csproj.CoreCompileInputs.cache
+/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/obj/Release/netcoreapp3.1/BankyStuffLibrary.dll
+/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/obj/Release/netcoreapp3.1/BankyStuffLibrary.pdb

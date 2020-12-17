@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUT2uUnet9agdR8LDoVL0jMHQ4sqCuugzmG0X1F0eYkZuRg3UKu3v1lE9PhezgnXTrJZRm521JE842aDa9thQQ==",
+  "success": true,
+  "projectFilePath": "/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/BankyStuffLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/kehindetomiwa/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/kehindetomiwa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kehindetomiwa/projects/SuperBank/BankyTests/BankyTests.csproj": {}
+  },
+  "projects": {
+    "/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/BankyStuffLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/BankyStuffLibrary.csproj",
+        "projectName": "BankyStuffLibrary",
+        "projectPath": "/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/BankyStuffLibrary.csproj",
+        "packagesPath": "/Users/kehindetomiwa/.nuget/packages/",
+        "outputPath": "/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kehindetomiwa/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Humanizer.Core": {
+              "target": "Package",
+              "version": "[2.8.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kehindetomiwa/projects/SuperBank/BankyTests/BankyTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kehindetomiwa/projects/SuperBank/BankyTests/BankyTests.csproj",
+        "projectName": "BankyTests",
+        "projectPath": "/Users/kehindetomiwa/projects/SuperBank/BankyTests/BankyTests.csproj",
+        "packagesPath": "/Users/kehindetomiwa/.nuget/packages/",
+        "outputPath": "/Users/kehindetomiwa/projects/SuperBank/BankyTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kehindetomiwa/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/BankyStuffLibrary.csproj": {
+                "projectPath": "/Users/kehindetomiwa/projects/SuperBank/BankyStuffLibrary/BankyStuffLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

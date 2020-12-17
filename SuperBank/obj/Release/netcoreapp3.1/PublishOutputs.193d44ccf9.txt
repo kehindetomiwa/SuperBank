@@ -1,0 +1,7 @@
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Release/netcoreapp3.1/publish/SuperBank.dll
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Release/netcoreapp3.1/publish/SuperBank.deps.json
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Release/netcoreapp3.1/publish/SuperBank.runtimeconfig.json
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Release/netcoreapp3.1/publish/SuperBank.pdb
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Release/netcoreapp3.1/publish/Humanizer.dll
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Release/netcoreapp3.1/publish/BankyStuffLibrary.dll
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Release/netcoreapp3.1/publish/BankyStuffLibrary.pdb

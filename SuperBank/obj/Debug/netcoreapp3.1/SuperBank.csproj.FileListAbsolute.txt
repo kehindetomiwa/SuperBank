@@ -1,0 +1,16 @@
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Debug/netcoreapp3.1/SuperBank.deps.json
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Debug/netcoreapp3.1/SuperBank.runtimeconfig.json
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Debug/netcoreapp3.1/SuperBank.runtimeconfig.dev.json
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Debug/netcoreapp3.1/SuperBank.dll
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Debug/netcoreapp3.1/SuperBank.pdb
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/obj/Debug/netcoreapp3.1/SuperBank.AssemblyInfoInputs.cache
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/obj/Debug/netcoreapp3.1/SuperBank.AssemblyInfo.cs
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/obj/Debug/netcoreapp3.1/SuperBank.csproj.CoreCompileInputs.cache
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/obj/Debug/netcoreapp3.1/SuperBank.dll
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/obj/Debug/netcoreapp3.1/SuperBank.pdb
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/obj/Debug/netcoreapp3.1/SuperBank.genruntimeconfig.cache
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/obj/Debug/netcoreapp3.1/SuperBank.csprojAssemblyReference.cache
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Debug/netcoreapp3.1/BankyStuffLibrary.dll
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Debug/netcoreapp3.1/BankyStuffLibrary.pdb
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/obj/Debug/netcoreapp3.1/SuperBank.csproj.CopyComplete
+/Users/kehindetomiwa/projects/SuperBank/SuperBank/bin/Debug/netcoreapp3.1/Humanizer.dll
